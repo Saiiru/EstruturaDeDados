@@ -1,6 +1,6 @@
 package me.sairu;
 
-import me.sairu.impl.HeroesArray;
+import me.sairu.vector.HeroesArray;
 
 import java.util.Scanner;
 

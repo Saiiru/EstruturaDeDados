@@ -1,4 +1,4 @@
-package me.sairu.impl;
+package me.sairu.vector;
 
 public class HeroesArray implements Vector{
 
